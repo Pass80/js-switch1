@@ -1,0 +1,15 @@
+article {
+    width: 60%;
+    margin: 10rem auto;
+    text-align: center;
+}
+
+article div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+div input {
+    width: 60%;
+}
